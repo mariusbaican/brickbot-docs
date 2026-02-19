@@ -105,18 +105,18 @@ nav:
       - Hardware și unelte: assembly/tools-and-fasteners.md
       - Componentele mecanice: assembly/mechanical.md
       - Componentele electronice: assembly/electrical.md
-      - Mecanisme des întâlnite: assembly/mechanisms.md
-      - Cum se concepe un robot?: assembly/robot.md
-      - Cum îți faci robotul ușor de condus?: assembly/driveable-robot.md
-      - Cablare: assembly/wiring.md
+      # - Mecanisme des întâlnite: assembly/mechanisms.md
+      # - Cum se concepe un robot?: assembly/robot.md
+      # - Cum îți faci robotul ușor de condus?: assembly/driveable-robot.md
+      # - Cablare: assembly/wiring.md
   - Programare:
       - Java: programming/java.md
       - Android Studio: programming/android-studio.md
       - Java în FTC: programming/java-in-ftc.md
-      - Cum ajunge codul în robot?: programming/uploading.md
-      - Teoria controlului: programming/control-theory.md
-      - SimplicityFTC: programming/simplicityftc.md
-      - Alte resurse: programming/other-resources.md
+      # - Cum ajunge codul în robot?: programming/uploading.md
+      # - Teoria controlului: programming/control-theory.md
+      # - SimplicityFTC: programming/simplicityftc.md
+      # - Alte resurse: programming/other-resources.md
   - Portofoliul Inginerului:
       - Introducere: portfolio/introduction.md
       - Non-Tehnic: portfolio/non-technical.md
